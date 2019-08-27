@@ -12,7 +12,7 @@ targetCompatibility = 1.8
 group = 'pro-apptive'
 
 bootJar {
-    baseName = 'gs-rest-service'
+    baseName = 'spring-microservices'
     version = '0.1.0'
 }
 
