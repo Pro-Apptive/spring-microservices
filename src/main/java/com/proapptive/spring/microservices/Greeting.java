@@ -1,4 +1,4 @@
-package hello;
+package com.proapptive.spring.microservices;
 
 public class Greeting {
     private final long id;

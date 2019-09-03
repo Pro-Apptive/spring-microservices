@@ -1,4 +1,4 @@
-package hello;
+package com.proapptive.spring.microservices;
 
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestParam;
